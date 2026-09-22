@@ -1,0 +1,117 @@
+{
+  "lifetime_xp": 258,
+  "spendable_xp": 258,
+  "today_xp": 258,
+  "today_sessions": 1,
+  "today_study_minutes": 35,
+  "today_date": "2026-09-22",
+  "daily_win_claimed": false,
+  "sleep_bed_time": null,
+  "sleep_wake_time": null,
+  "sleep_target_hours": 7.5,
+  "weekly_boss": {
+    "week_start": "2026-09-21",
+    "minutes": 35,
+    "claimed": false
+  },
+  "history": [
+    {
+      "time": "2026-09-22 20:18",
+      "type": "祈愿",
+      "detail": "⭐⭐⭐⭐ 罗罗诺亚·索隆 《海贼王》 +技能:三千世界（新） +专武:三把佩刀（和道一文字·三代鬼彻·秋水）(R1)",
+      "xp": 62,
+      "loot": null
+    },
+    {
+      "time": "2026-09-22 20:18",
+      "type": "祈愿",
+      "detail": "⭐⭐⭐ 星尘 星尘+3(累计3)",
+      "xp": 28,
+      "loot": null
+    },
+    {
+      "time": "2026-09-22 20:18",
+      "type": "学习",
+      "detail": "专注学习 35 分钟",
+      "xp": 168,
+      "loot": null,
+      "minutes": 35
+    }
+  ],
+  "purchases": [],
+  "primogems": 245,
+  "intertwined_fate": 7,
+  "starglitter": 0,
+  "stardust": 3,
+  "double_cards": 0,
+  "adventure_rank": 1,
+  "adventure_exp": 258,
+  "streak_days": 1,
+  "last_study_date": "2026-09-22",
+  "wish": {
+    "pity_5star": 2,
+    "pity_4star": 0,
+    "guaranteed_up": false,
+    "up_character": "ace",
+    "total_wishes": 2,
+    "five_star_count": 0,
+    "max_pity": 0,
+    "min_pity": 999,
+    "lost_5050": false
+  },
+  "characters": {
+    "zoro": {
+      "count": 1,
+      "obtained_at": "2026-09-22 20:18"
+    }
+  },
+  "skills": {
+    "zoro_skill": {
+      "count": 1,
+      "obtained_at": "2026-09-22 20:18"
+    }
+  },
+  "equipped_skills": [],
+  "synth_count": 0,
+  "synth_5star_count": 0,
+  "daily_commissions": {
+    "date": "2026-09-22",
+    "tasks": [
+      {
+        "id": "c1",
+        "desc": "完成 1 个学习 Session",
+        "reward": 30,
+        "done": true,
+        "claimed": true
+      },
+      {
+        "id": "c2",
+        "desc": "今日累计学习 ≥ 30 分钟",
+        "reward": 30,
+        "done": true,
+        "claimed": true
+      },
+      {
+        "id": "c3",
+        "desc": "完成 2 个学习 Session",
+        "reward": 40,
+        "done": false,
+        "claimed": false
+      },
+      {
+        "id": "c4",
+        "desc": "今日累计学习 ≥ 60 分钟",
+        "reward": 40,
+        "done": false,
+        "claimed": false
+      }
+    ]
+  },
+  "commission_bonus_claimed": false,
+  "achievements": {
+    "first_wish": "2026-09-22 20:18"
+  },
+  "titles": [],
+  "current_title": "",
+  "last_class_date": "2026-09-22"
+}
